@@ -527,6 +527,7 @@
 <a name="FE"></a>
 ### Facebook Event
 - [Irremovable Guest in Facebook Event (Facebook Bug Bounty)](https://infosecwriteups.com/irremovable-guest-in-facebook-event-facebook-bug-bounty-e10e03c98cd5)
+- [Co-Hosts can prevent Hosts from accessing the “About” tab in Facebook Events](https://medium.com/@th3_pr0t3ct0r/co-hosts-can-prevent-hosts-from-accessing-the-about-tab-in-facebook-events-fdbc324c6bfb)
 
 ![---------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
