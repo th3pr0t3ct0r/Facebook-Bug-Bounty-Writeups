@@ -285,6 +285,7 @@
 
 <a name="FG"></a>
 ### Facebook Groups
+- [[BAC] Improper Authorization in Public Facebook Groups Allows Moderators to Change “Who Can Participate” Setting](https://medium.com/@darktrace_0/bac-improper-authorization-in-public-facebook-groups-5345a7f49173)
 - [Facebook Vulnerability Expose Group Member 3000+](https://medium.com/@muhammadsholikhin/facebook-vulnerability-expose-group-member-3000-cca809a53f6b)
 - [Facebook Group Members Disclosure](https://spongebhav.medium.com/facebook-group-members-disclosure-e53eb83df39e)
 - [Group Experts Pending Expertise Request Acceptance Disclosure](https://hopesamples.blogspot.com/2022/09/group-experts-pending-expertise-request.html)
